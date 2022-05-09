@@ -4,7 +4,7 @@
 ### Amacımız
 
 Ana amacımız GPS destekli  Dron ile yangın ve kurtarma çalışmalarına otonom bir bakış açısı kazandırmaktır.
-Bu web sitesinde hem aşama şama nasıl kodlandığını ve hangi teknolojiler kullanıldığını açıklayacağız.Kullanılan teknolojiler [Teknolojiler](url)
+Bu web sitesinde hem aşama şama nasıl kodlandığını ve hangi teknolojiler kullanıldığını açıklayacağız.Kullanılan teknolojiler [Teknolojiler](tech.md)
 
 Kademe 1: 
 Webot üzerinde GPS aygıtı
