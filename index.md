@@ -4,7 +4,7 @@
 ### Amacımız
 
 Ana amacımız GPS destekli  Dron ile yangın ve kurtarma çalışmalarına otonom bir bakış açısı kazandırmaktır.
-Bu web sitesinde hem aşama şama nasıl kodlandığını ve hangi teknolojiler kullanıldığını açıklayacağız.Kullanılan teknolojiler [Teknolojiler](tech.md)
+Bu web sitesinde hem aşama şama nasıl kodlandığını ve hangi teknolojiler kullanıldığını açıklayacağız.Kullanılan [Teknolojiler](https://github.com/droneopen44/droneopen44.github.io/blob/gh-pages/tech.md) bu linkte açıklanış olup yazının geri kalanında değinilmeyecektir.
 
 Kademe 1: 
 Webot üzerinde GPS aygıtı
@@ -13,15 +13,6 @@ Syntax highlighted code block
 
 # Hafta 1 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
