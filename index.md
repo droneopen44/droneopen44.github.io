@@ -1,16 +1,17 @@
  Ahmet Faruk PALA
 
 
-### Markdown
+### Amacımız
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ana amacımız GPS destekli  Dron ile yangın ve kurtarma çalışmalarına otonom bir bakış açısı kazandırmaktır.
+Bu web sitesinde hem aşama şama nasıl kodlandığını ve hangi teknolojiler kullanıldığını açıklayacağız.Kullanılan teknolojiler [Teknolojiler](url)
 
+Kademe 1: 
+Webot üzerinde GPS aygıtı
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Hafta 1 
 
 - Bulleted
 - List
